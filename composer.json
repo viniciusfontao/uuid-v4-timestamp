@@ -1,0 +1,26 @@
+{
+  "name": "viniciusfontao/uuid-helper-php",
+  "description": "PHP library to generate UUID",
+  "version": "1.0.0",
+  "type": "library",
+  "require": {
+    "php": "^7.0",
+    "ramsey/uuid": "^3.8",
+    "moontoast/math": "^1.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.0.0",
+    "mockery/mockery": "~1.2.0"
+  },
+  "authors": [
+    {
+      "name": "Vinicius Fontão",
+      "email": "vgfontao@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "UuidHelper\\": "src/"
+    }
+  }
+}
