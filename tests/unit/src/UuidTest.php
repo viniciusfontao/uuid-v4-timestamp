@@ -3,7 +3,7 @@
 use Ramsey\Uuid\Codec\TimestampFirstCombCodec;
 use Ramsey\Uuid\Generator\CombGenerator;
 use Ramsey\Uuid\UuidFactory;
-use UuidHelper\Uuid;
+use Uuid\Uuid;
 
 class UuidTest extends PHPUnit_Framework_TestCase
 {

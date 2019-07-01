@@ -1,6 +1,6 @@
 <?php
 
-namespace UuidHelper;
+namespace Uuid;
 
 use Ramsey\Uuid\Codec\TimestampFirstCombCodec;
 use Ramsey\Uuid\Generator\CombGenerator;
@@ -9,7 +9,7 @@ use Ramsey\Uuid\UuidFactory;
 
 /**
  * Class Uuid
- * Generate and validate uuid hashs based on Ramsey/Uuid lib
+ * Generate uuid hashs based on Ramsey/Uuid lib
  */
 class Uuid
 {

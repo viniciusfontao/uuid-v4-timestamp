@@ -1,5 +1,5 @@
 {
-  "name": "viniciusfontao/uuid-helper-php",
+  "name": "viniciusfontao/uuid-v4-timestamp",
   "description": "PHP library to generate UUID",
   "version": "1.0.0",
   "type": "library",
@@ -20,7 +20,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "UuidHelper\\": "src/"
+      "Uuid\\": "src/"
     }
   }
 }
