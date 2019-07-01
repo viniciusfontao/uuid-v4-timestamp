@@ -8,7 +8,7 @@ use Uuid\Uuid;
 class UuidTest extends PHPUnit_Framework_TestCase
 {
     /**
-     * @covers \UuidHelper\Uuid::uuid4
+     * @covers \Uuid\Uuid::uuid4
      */
     public function testUuid4()
     {

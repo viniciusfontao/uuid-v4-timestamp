@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cafe7101f9b79a57d2638aa15d517d8c",
+    "content-hash": "5b73ac633fb21e7cb5a1458a44a8a928",
     "packages": [
         {
             "name": "moontoast/math",
